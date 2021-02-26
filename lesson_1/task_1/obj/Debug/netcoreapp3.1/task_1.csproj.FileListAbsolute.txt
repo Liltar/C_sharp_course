@@ -1,0 +1,13 @@
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.exe
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.deps.json
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.runtimeconfig.json
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.runtimeconfig.dev.json
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.dll
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\bin\Debug\netcoreapp3.1\task_1.pdb
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.csprojAssemblyReference.cache
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.AssemblyInfoInputs.cache
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.AssemblyInfo.cs
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.csproj.CoreCompileInputs.cache
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.dll
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.pdb
+C:\Users\Elina\source\repos\C_sharp_course\lesson_1\task_1\obj\Debug\netcoreapp3.1\task_1.genruntimeconfig.cache
