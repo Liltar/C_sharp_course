@@ -8,25 +8,31 @@ namespace task_1
         {
             Console.WriteLine("Enter name:");
             string name = Console.ReadLine();
+            name = name.Trim();
 
             Console.WriteLine("Enter age:");
-            int age = int.Parse(Console.ReadLine());
+            string age = Console.ReadLine();
+            int age_int = int.Parse(age);
 
             Console.WriteLine("Enter adress:");
             string adress = Console.ReadLine();
+            adress = adress.Trim();
 
             Console.WriteLine("Enter phone:");
             string phone = Console.ReadLine();
+            phone = phone.Trim();
 
             Console.WriteLine("Enter height:");
-            int height = int.Parse(Console.ReadLine());
+            string height = Console.ReadLine();
+            int height_int = int.Parse(height);
+            
 
             Console.Clear();
             Console.WriteLine(name);
-            Console.WriteLine(age);
+            Console.WriteLine(age_int);
             Console.WriteLine(adress);
             Console.WriteLine(phone);
-            Console.WriteLine(height);
+            Console.WriteLine(height_int);
 
         }
     }
