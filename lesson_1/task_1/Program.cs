@@ -24,6 +24,7 @@ namespace task_1
 
             Console.WriteLine("Enter height:");
             string height = Console.ReadLine();
+            height.Replace('.', ',');
             int height_int = int.Parse(height);
             
 
