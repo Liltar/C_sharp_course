@@ -22,6 +22,14 @@ namespace task_1
                 Console.WriteLine("Place your bet:");
                 string bet = Console.ReadLine();
                 int bet_int = int.Parse(bet);
+                if (bet_int < 5 || bet_int > 1000)
+                {
+                    Console.WriteLine("Invalid number");
+                }
+                else
+                {
+
+                }
 
 
             }
