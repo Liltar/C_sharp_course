@@ -94,7 +94,26 @@ namespace task_2
             {
                 Console.WriteLine("Воскресенье");
             }
-            else Console.WriteLine("Рабочий день");        
+            else Console.WriteLine("Рабочий день");
+
+            //            60.Известны два расстояния: одно в километрах, другое — 
+            //           в футах(1 фут = 0,31 м). Какое из расстояний
+            //меньше?
+            Console.WriteLine("Введите расстояние в километрах:");
+            int kilom = int.Parse(Console.ReadLine());
+            double kilom_converted = kilom * 1.0 * 1000;
+            Console.WriteLine("Введите расстояние в футах:");
+            int feet = int.Parse(Console.ReadLine());
+            double feet_to_meters = feet * 0.31;
+            if (kilom_converted < feet_to_meters)
+            {
+                Console.WriteLine($"{kilom} kilometers is smaller than {feet} feet");
+            }
+            else if (kilom_converted == feet_to_meters)
+            {
+                Console.WriteLine($"{kilom} kilometers equals to{feet} feet");
+            }
+            else Console.WriteLine($"{feet} feet is smaller than {kilom} kilometers");
         }
     }
 }
