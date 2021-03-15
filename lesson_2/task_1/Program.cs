@@ -1,4 +1,4 @@
-﻿using System;
+﻿+using System;
 
 namespace task_1
 {
@@ -82,7 +82,7 @@ namespace task_1
                             double prize = coef_static * bet_int * 9.0;
                             Console.WriteLine($"You won {prize}");
                         }
-                    else if (first == second)
+                        else if (first == second)
                         {
                             if (first == 1)
                             {
@@ -129,13 +129,15 @@ namespace task_1
                                 double prize = coef_static_2 * bet_int * 9;
                                 Console.WriteLine($"You won {prize}");
                             }
-                    else if (first == 7 || second == 7 || third == 7)
-                            { double prize = 1.6 * bet_int;
-                              Console.WriteLine($"You won {prize}");
+                            else if (first == 7 || second == 7 || third == 7)
+                            {
+                                double prize = 1.6 * bet_int;
+                                Console.WriteLine($"You won {prize}");
                             }
-                    else if (first == 9 || second == 9 || third == 9)
-                            { double prize = 1.35 * bet_int;
-                              Console.WriteLine($"You won {prize}");
+                            else if (first == 9 || second == 9 || third == 9)
+                            {
+                                double prize = 1.35 * bet_int;
+                                Console.WriteLine($"You won {prize}");
                             }
                         }
                     }
